@@ -1,6 +1,6 @@
 Package.describe({
   name: 'nepho:accounts-kakao',
-  version: '0.0.3',
+  version: '0.0.4',
   summary: 'Login service for Kakao',
   git: 'https://github.com/nepho8/meteor-accounts-kakao',
   documentation: 'README.md'

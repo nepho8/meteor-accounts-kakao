@@ -7,10 +7,10 @@ Package Dependencies
 
 * accounts-base
 * accounts-oauth
-* spectrum:kakao
+* nepho:kakao
 
 Install
 -----------
 ```
-meteor add spectrum:accounts-kakao
+meteor add nepho:accounts-kakao
 ```
